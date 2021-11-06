@@ -3,7 +3,7 @@ import React from "react";
 
 const Image = () => (
 	<EuiImage
-		size="l"
+		size="m"
 		hasShadow
 		caption="Random nature image"
 		alt="Random nature image"
